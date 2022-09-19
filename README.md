@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on CIS   
+- 🌱 I’m currently learning PYTHON  
+- 👯 I’m looking to collaborate on projects
+- 🎞 My hobbies are watching movies.
 <!--
 **abollamp/abollamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
